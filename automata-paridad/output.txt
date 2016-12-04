@@ -1,0 +1,51 @@
+Manual: 1
+1001101111001111 No Paridad - Archivo
+0111110110011101 No Paridad - Archivo
+1100010110110011 No Paridad - Archivo
+1111111111111101 No Paridad - Archivo
+1110010001111111 No Paridad - Archivo
+1100111111111101 No Paridad - Archivo
+0110011010011100 Paridad - Archivo
+0001001000101110 Paridad - Archivo
+0111100101111001 Paridad - Archivo
+1110111111011001 Paridad - Archivo
+1111011000000111 No Paridad - Archivo
+0011111011111011 Paridad - Archivo
+1010000111000001 Paridad - Archivo
+0001010101101100 No Paridad - Archivo
+0110001110101010 Paridad - Archivo
+1000010111101111 Paridad - Archivo
+1110111101001010 Paridad - Archivo
+0011100111111000 No Paridad - Archivo
+0011011110100000 No Paridad - Archivo
+0100000000000101 No Paridad - Archivo
+1010111111110111 No Paridad - Archivo
+1100010001111011 No Paridad - Archivo
+0010101111001110 No Paridad - Archivo
+0101011110001110 No Paridad - Archivo
+1110110111001001 Paridad - Archivo
+0000110101010111 Paridad - Archivo
+1100100110001011 Paridad - Archivo
+1110001011110111 No Paridad - Archivo
+1001100111011000 Paridad - Archivo
+0100111011110110 Paridad - Archivo
+0011000001011101 No Paridad - Archivo
+0110011101111110 No Paridad - Archivo
+0110011010100001 No Paridad - Archivo
+0010101111000100 No Paridad - Archivo
+1000110000100100 No Paridad - Archivo
+1101110010000100 No Paridad - Archivo
+0100101011110011 No Paridad - Archivo
+0100100100001110 Paridad - Archivo
+1110001110101000 Paridad - Archivo
+1000111110111100 Paridad - Archivo
+1111100110111011 Paridad - Archivo
+1011011110000010 Paridad - Archivo
+1110011100010000 No Paridad - Archivo
+0100010101010011 No Paridad - Archivo
+1000110001000111 No Paridad - Archivo
+0011110011000000 Paridad - Archivo
+0001011011110000 No Paridad - Archivo
+1010000100100111 No Paridad - Archivo
+1011010001000100 Paridad - Archivo
+1101110101111110 Paridad - Archivo
