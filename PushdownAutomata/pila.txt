@@ -1,0 +1,16 @@
+Z
+XZ
+XXZ
+XXXZ
+XXXXZ
+XXXXXZ
+XXXXXXZ
+XXXXXZ
+XXXXZ
+XXXZ
+XXZ
+XZ
+Z
+---------------------------
+Z
+---------------------------
