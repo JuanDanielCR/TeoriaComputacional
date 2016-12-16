@@ -16,6 +16,7 @@ public class TestAFN {
 	private static Auto automatico;
 	
 	public static void main(String args[]){
+		System.out.println("Automata FN - Cadena de 0,1's");
 		file = Archivo.getSingleton("output.txt", "historia.txt");
 		sc = new Scanner(System.in);
 		do{
@@ -30,6 +31,7 @@ public class TestAFN {
 					}
 				});
 				t.start();
+				file.closeBufferedStream();
 			}else if(modo == 1){
 				manual =  new Scanning(file);
 				manual.runAFN();
