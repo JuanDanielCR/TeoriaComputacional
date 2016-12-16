@@ -1,0 +1,46 @@
+Escuelas del Instituto Politécnico Nacional                                                         ASCII      PrimoInstituto Politecnico Nacional                                                                      2993       No primo
+Escuela Superior de Cómputo                                                                         2735       No Primo
+Centro de Innovación y Desarrollo Tecnológico en Cómputo                                            5748       No Primo
+Unidad Profesional Interdisciplinaria de Ingeniería y Tecnología Avanzadas                          7416       No Primo
+Escuela Superior de Física y Matemáticas                                                            4025       No Primo
+Escuela Superior de Ingeniería Mecánica y Eléctrica, Unidad Culhuacan                               6802       No Primo
+Escuela Superior de Ingeniería Mecánica y Eléctrica, Unidad Azcapotzalco                            7145       No Primo
+Escuela Superior de Ingeniería Mecánica y Eléctrica, Unidad Zacatenco                               6806       No Primo
+Escuela Superior de Ingeniería Mecánica y Eléctrica, Ticomán                                        6100       No Primo
+Escuela Superior de Ingeniería y Arquitectura, Zacatenco                                            5466       No Primo
+Escuela Superior de Ingeniería y Arquitectura, Tecamachalco                                         5751       No Primo
+Escuela Superior de Ingeniería y Arquitectura, Ticomán                                              5389       No Primo
+Escuela Superior de Ingeniería Textil                                                               3677       Primo
+Escuela Superior de Ingeniería Química e Industrias Extractivas                                     6313       No Primo
+Unidad Profesional Interdisciplinaria de Biotecnología                                              5441       Primo
+Unidad Profesional Interdisciplinaria de Ingeniería y Ciencias Sociales y Administrativas           8724       No Primo
+Escuela Nacional de Ciencias Biológicas                                                             3791       No Primo
+Escuela Superior de Medicina                                                                        2654       No Primo
+Escuela Nacional de Medicina y Homeopatía                                                           3950       No Primo
+Centro Interdisciplinario de Ciencias de la Salud, Milpa Alta                                       5615       No Primo
+Centro Interdisciplinario de Ciencias de la Salud, Santo Tomás                                      5891       No Primo
+Escuela Superior de Comercio y Administración, Tepepan                                              5248       No Primo
+Escuela Superior de Comercio y Administración, Santo Tomás                                          5724       No Primo
+Escuela Superior de Economía                                                                        2803       Primo
+Escuela Superior de Turismo                                                                         2615       No Primo
+Centro de Desarrollo de Productos Bióticos                                                          4151       No Primo
+Centro Interdisciplinario de Ciencias Marinas                                                       4362       No Primo
+Centro Interdisciplinario de Investigación para el Desarrollo Integral Regional, Durango            8582       No Primo
+Centro Interdisciplinario de Investigación para el Desarrollo Integral Regional, Michoacan          8761       Primo
+Centro Interdisciplinario de Investigación para el Desarrollo Integral Regional, Oaxaca             8451       No Primo
+Centro Interdisciplinario de Investigación para el Desarrollo Integral Regional, Sinaloa            8573       Primo
+Centro Interdisciplinario de Investigaciones y Estudios sobre Medio Ambiente y Desarrollo           8594       No Primo
+Centro de Investigaciones Económicas Administrativas y Sociales                                     6275       No Primo
+Centro de Biotecnología Genómica                                                                    3326       No Primo
+Centro de Investigación en Ciencia Aplicada y Tecnología Avanzada, Legaria                          7106       No Primo
+Centro de Investigación en Ciencia Aplicada y Tecnología Avanzada, Altamira                         7224       No Primo
+Centro de Investigación en Ciencia Aplicada y Tecnología Avanzada, Querétaro                        7497       No Primo
+Centro Mexicano para la Producción Más Limpia, Distrito Federal                                     6104       No Primo
+Centro de Investigación e Innovación Tecnológica                                                    5012       No Primo
+Centro de Investigación y Desarrollo de Tecnología Digital                                          5771       No Primo
+Binarios primos:
+{0100010101110011011000110111010101100101011011000110000100100000010100110111010101110000011001010111001001101001011011110111001000100000011001000110010100100000010010010110111001100111011001010110111001101001011001010111001011000011101011010110000100100000010101000110010101111000011101000110100101101100}
+{01010101011011100110100101100100011000010110010000100000010100000111001001101111011001100110010101110011011010010110111101101110011000010110110000100000010010010110111001110100011001010111001001100100011010010111001101100011011010010111000001101100011010010110111001100001011100100110100101100001001000000110010001100101001000000100001001101001011011110111010001100101011000110110111001101111011011000110111101100111110000111010110101100001}
+{0100010101110011011000110111010101100101011011000110000100100000010100110111010101110000011001010111001001101001011011110111001000100000011001000110010100100000010001010110001101101111011011100110111101101101110000111010110101100001}
+{01000011011001010110111001110100011100100110111100100000010010010110111001110100011001010111001001100100011010010111001101100011011010010111000001101100011010010110111001100001011100100110100101101111001000000110010001100101001000000100100101101110011101100110010101110011011101000110100101100111011000010110001101101001110000111011001101101110001000000111000001100001011100100110000100100000011001010110110000100000010001000110010101110011011000010111001001110010011011110110110001101100011011110010000001001001011011100111010001100101011001110111001001100001011011000010000001010010011001010110011101101001011011110110111001100001011011000010110000100000010011010110100101100011011010000110111101100001011000110110000101101110}
+{0100001101100101011011100111010001110010011011110010000001001001011011100111010001100101011100100110010001101001011100110110001101101001011100000110110001101001011011100110000101110010011010010110111100100000011001000110010100100000010010010110111001110110011001010111001101110100011010010110011101100001011000110110100111000011101100110110111000100000011100000110000101110010011000010010000001100101011011000010000001000100011001010111001101100001011100100111001001101111011011000110110001101111001000000100100101101110011101000110010101100111011100100110000101101100001000000101001001100101011001110110100101101111011011100110000101101100001011000010000001010011011010010110111001100001011011000110111101100001}
